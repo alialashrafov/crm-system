@@ -1,11 +1,5 @@
 # B2B CRM System in Laravel 8.0 with PHP [>8.0]
-<p align="center">
-  <img src="https://i.ibb.co/z8ssKdN/Przechwytywanie.jpg">
-</p>
-
 CRMSystem is a database system containing a number of useful functions and solutions to facilitate B2B company management. It uses data analysis about customers' history with a company and to improve business relationships with customers, specifically focusing on customer retention and ultimately driving sales growth.
-
-<img src="https://i.ibb.co/xMcZF2V/Przechwytywanie.jpg">
 
 ## Functionality:
 #### Dependencies:
